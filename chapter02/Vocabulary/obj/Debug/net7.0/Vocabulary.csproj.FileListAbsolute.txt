@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.exe
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.deps.json
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.runtimeconfig.json
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.dll
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\bin\Debug\net7.0\Vocabulary.pdb
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.dll
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\refint\Vocabulary.dll
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.pdb
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\Vocabulary.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\chapter02\Vocabulary\obj\Debug\net7.0\ref\Vocabulary.dll

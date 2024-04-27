@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.exe
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.deps.json
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.dll
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.pdb
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.dll
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\refint\AboutMyEnvironment.dll
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.pdb
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chaer01\AboutMyEnvironment\obj\Debug\net7.0\ref\AboutMyEnvironment.dll

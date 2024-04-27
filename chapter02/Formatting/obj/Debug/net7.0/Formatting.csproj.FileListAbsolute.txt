@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\chapter02\Formatting\bin\Debug\net7.0\Formatting.exe
+E:\dotNet7Visutal Stdio\chapter02\Formatting\bin\Debug\net7.0\Formatting.deps.json
+E:\dotNet7Visutal Stdio\chapter02\Formatting\bin\Debug\net7.0\Formatting.runtimeconfig.json
+E:\dotNet7Visutal Stdio\chapter02\Formatting\bin\Debug\net7.0\Formatting.dll
+E:\dotNet7Visutal Stdio\chapter02\Formatting\bin\Debug\net7.0\Formatting.pdb
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.dll
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\refint\Formatting.dll
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.pdb
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\Formatting.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\chapter02\Formatting\obj\Debug\net7.0\ref\Formatting.dll

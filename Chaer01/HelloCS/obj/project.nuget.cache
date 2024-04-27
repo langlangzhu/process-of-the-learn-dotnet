@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9lqj94Mkbuh7shAvj8xTDK5rppOPvGTtE9x2I/7WEe6GEZYPfwG1ltbRl4Z3utf41zrGfSbXNNuGXXov9g90w==",
+  "success": true,
+  "projectFilePath": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

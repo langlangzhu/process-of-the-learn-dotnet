@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\bin\Debug\net7.0\HelloCS.exe
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\bin\Debug\net7.0\HelloCS.deps.json
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\bin\Debug\net7.0\HelloCS.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\bin\Debug\net7.0\HelloCS.dll
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\bin\Debug\net7.0\HelloCS.pdb
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.dll
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\refint\HelloCS.dll
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.pdb
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\HelloCS.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chaer01\HelloCS\obj\Debug\net7.0\ref\HelloCS.dll
