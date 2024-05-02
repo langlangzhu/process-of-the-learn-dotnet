@@ -1,9 +1,9 @@
-﻿
-//根据编号的位置进行格式化
+﻿//根据编号的位置进行格式化
 using System.Runtime.CompilerServices;
 
 int numberOfApples=12;
 decimal pricePerApple=0.35M;
+
 Console.WriteLine(
   format:"{0} apples cost {1:C} 2:{2}  , 3:{3}, 4{4}",
     numberOfApples,
@@ -17,13 +17,13 @@ Console.WriteLine(
 
 Console.WriteLine($"{numberOfApples} apples cost {pricePerApple
                          * numberOfApples:C}");
- 
+ /*
 const string firstname ="Omar";
 const string lastname="Rudberg";
 
 const string fullname =$"{firstname}{lastname}";
 Console.WriteLine(fullname);
-
+*/
 //------------------------------------------------------------------------
 //格式字符串
 //语法如下:
@@ -52,4 +52,23 @@ Console.WriteLine(
     format:"{0,-10} {1,6:N0}",
     arg0:bananasText,
     arg1:bananasCount
+);
+
+//-----------------------------------------
+//获取用户的文本输入
+
+Console.Write("Type your fitst name and press ENTER: ");
+string ?firstName =Console.ReadLine();
+Console.Write("Type your age and press ENTER：");
+string age = Console.ReadLine()!;
+Console.WriteLine($"Hello {firstName}, you look good for {age}.");
+//--------------------------------------------------------
+//获取用户的重要输入
+Write("Press any key combination：");
+ConsoleKeyInfo key = ReadKey();
+WriteLine();
+WriteLine("Key: {0}, char:{1}, Modifiers: {2}",
+        arg0:key.Key,
+        arg1:key.KeyChar,
+        arg2: key.Modifiers
 );

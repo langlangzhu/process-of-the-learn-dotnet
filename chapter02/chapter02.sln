@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatting", "Formatting\Formatting.csproj", "{EC69E939-B728-4513-9DF6-420AC9EF6212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments", "Arguments\Arguments.csproj", "{9A101D3B-8225-414F-9A39-7AD581341EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EC69E939-B728-4513-9DF6-420AC9EF6212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC69E939-B728-4513-9DF6-420AC9EF6212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC69E939-B728-4513-9DF6-420AC9EF6212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A101D3B-8225-414F-9A39-7AD581341EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A101D3B-8225-414F-9A39-7AD581341EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A101D3B-8225-414F-9A39-7AD581341EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A101D3B-8225-414F-9A39-7AD581341EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
