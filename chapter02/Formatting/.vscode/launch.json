@@ -1,0 +1,20 @@
+
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Formatting_launch",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            //确认项目的构建和启动路径
+            "program": "${workspaceFolder}/Formatting/bin/Debug/net7.0/Formatting.dll",
+            "args":["caonima"],
+            "cwd": "${workspaceFolder}/Formatting",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]   
+
+}

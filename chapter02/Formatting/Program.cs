@@ -57,11 +57,11 @@ Console.WriteLine(
 //-----------------------------------------
 //获取用户的文本输入
 
-Console.Write("Type your fitst name and press ENTER: ");
-string ?firstName =Console.ReadLine();
-Console.Write("Type your age and press ENTER：");
-string age = Console.ReadLine()!;
-Console.WriteLine($"Hello {firstName}, you look good for {age}.");
+//Console.Write("Type your fitst name and press ENTER: ");
+//string ?firstName =Console.ReadLine();
+//Console.Write("Type your age and press ENTER：");
+//string age = Console.ReadLine()!;
+//Console.WriteLine($"Hello {firstName}, you look good for {age}.");
 //--------------------------------------------------------
 //获取用户的重要输入
 Write("Press any key combination：");
@@ -72,3 +72,53 @@ WriteLine("Key: {0}, char:{1}, Modifiers: {2}",
         arg1:key.KeyChar,
         arg2: key.Modifiers
 );
+//-------------------------------------------------------------
+//命令行参数的输入
+
+WriteLine($"There are {args.Length} arguments.");
+
+// foreach(string arg in args)
+// {
+//     WriteLine(arg);
+// }
+
+// if(args.Length<3)
+// {
+//     WriteLine("You must specify two colors and cursor size, e.g.");
+//     WriteLine("dotnet run red yellow 50");
+//     return;  
+// }
+
+// ForegroundColor = (ConsoleColor)Enum.Parse(
+//     enumType:typeof(ConsoleColor),
+//     value:args[0],
+//     ignoreCase:true
+// );
+
+// BackgroundColor=(ConsoleColor)Enum.Parse(
+//     enumType:typeof(ConsoleColor),
+//     value:args[1],
+//     ignoreCase:true
+// );
+
+// try{
+// CursorSize=int.Parse(args[2]);
+// }
+// catch(PlatformNotSupportedException)
+// {
+//     WriteLine("The current platform does not support changing the size of the cursor.");
+// }
+
+// if(OperatingSystem.IsWindows())
+// {
+//     //execute code that only works on windows
+// }
+// else if(OperatingSystem.IsWindowsVersionAtLeast(major:10))
+// {
+//     //execute code that only works on windows 10 or Later
+// }
+// else if(OperatingSystem.IsIOSVersionAtLeast(major:14,minor:5))
+// {
+//     //只能在Ios14.5版本及之后版本运行
+// }
+

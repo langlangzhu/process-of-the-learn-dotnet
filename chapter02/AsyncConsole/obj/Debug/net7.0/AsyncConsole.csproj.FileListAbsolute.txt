@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.exe
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.deps.json
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.runtimeconfig.json
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.dll
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.pdb
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.dll
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\refint\AsyncConsole.dll
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.pdb
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\chapter02\AsyncConsole\obj\Debug\net7.0\ref\AsyncConsole.dll

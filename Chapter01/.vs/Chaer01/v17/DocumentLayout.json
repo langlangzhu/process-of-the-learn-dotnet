@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotNet7Visutal Stdio\\Chaer01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|e:\\dotnet7visutal stdio\\chaer01\\aboutmyenvironment\\aboutmyenvironment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|solutionrelative:aboutmyenvironment\\aboutmyenvironment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|e:\\dotnet7visutal stdio\\chaer01\\aboutmyenvironment\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|solutionrelative:aboutmyenvironment\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|e:\\dotnet7visutal stdio\\chaer01\\aboutmyenvironment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B0999D-7FC8-4A94-B43F-520E1D8E498F}|AboutMyEnvironment\\AboutMyEnvironment.csproj|solutionrelative:aboutmyenvironment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC58C043-F4EC-42B6-91C7-B54B909FAF64}|HelloCS\\HelloCS.csproj|e:\\dotnet7visutal stdio\\chaer01\\hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC58C043-F4EC-42B6-91C7-B54B909FAF64}|HelloCS\\HelloCS.csproj|solutionrelative:hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC58C043-F4EC-42B6-91C7-B54B909FAF64}|HelloCS\\HelloCS.csproj|e:\\dotnet7visutal stdio\\chaer01\\hellocs\\hellocs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC58C043-F4EC-42B6-91C7-B54B909FAF64}|HelloCS\\HelloCS.csproj|solutionrelative:hellocs\\hellocs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloCS\\obj\\HelloCS.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutMyEnvironment",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+              "RelativeDocumentMoniker": "AboutMyEnvironment\\AboutMyEnvironment.csproj",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+              "RelativeToolTip": "AboutMyEnvironment\\AboutMyEnvironment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T12:04:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "global.json",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\global.json",
+              "RelativeDocumentMoniker": "AboutMyEnvironment\\global.json",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\global.json",
+              "RelativeToolTip": "AboutMyEnvironment\\global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T12:04:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\Program.cs",
+              "RelativeDocumentMoniker": "AboutMyEnvironment\\Program.cs",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\AboutMyEnvironment\\Program.cs",
+              "RelativeToolTip": "AboutMyEnvironment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:35:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloCS.csproj.nuget.g.props",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "HelloCS\\obj\\HelloCS.csproj.nuget.g.props",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.g.props",
+              "RelativeToolTip": "HelloCS\\obj\\HelloCS.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-14T11:26:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloCS.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "HelloCS\\obj\\HelloCS.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T11:26:11.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloCS.csproj",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\HelloCS.csproj",
+              "RelativeDocumentMoniker": "HelloCS\\HelloCS.csproj",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\HelloCS.csproj",
+              "RelativeToolTip": "HelloCS\\HelloCS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T11:22:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCS\\Program.cs",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\Program.cs",
+              "RelativeToolTip": "HelloCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:19:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloCS.GlobalUsings.g.cs",
+              "DocumentMoniker": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs",
+              "ToolTip": "E:\\dotNet7Visutal Stdio\\Chaer01\\HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs",
+              "RelativeToolTip": "HelloCS\\obj\\Debug\\net7.0\\HelloCS.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:29:31.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

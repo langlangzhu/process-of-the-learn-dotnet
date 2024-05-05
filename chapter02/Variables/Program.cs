@@ -4,7 +4,8 @@ using System.Xml;
 // object类型储存
 object height =1.88;
 object name ="Amir";
-
+string namecopy= (string)name;
+Console.WriteLine(name.GetType().Name);
 Console.WriteLine($"{name} is {height} metres tall.");
 
 //int length1 = name.Length;
@@ -19,6 +20,7 @@ dynamic something ="Ahmed";
 something=12;
 something=new []{3,5,7};
 Console.WriteLine($"Length is {something.Length}");
+Console.WriteLine(something.GetType().Name);
 
 //---------------------------------------------------------------
 //推断局部变量的类型

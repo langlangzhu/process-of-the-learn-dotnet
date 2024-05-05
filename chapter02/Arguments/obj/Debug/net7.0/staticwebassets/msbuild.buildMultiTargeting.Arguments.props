@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Arguments.props" />
+</Project>
