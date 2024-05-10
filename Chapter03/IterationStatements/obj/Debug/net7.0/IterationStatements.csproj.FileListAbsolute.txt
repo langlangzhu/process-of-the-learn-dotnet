@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.exe
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.deps.json
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.dll
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\bin\Debug\net7.0\IterationStatements.pdb
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.dll
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\refint\IterationStatements.dll
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.pdb
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\IterationStatements.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chapter03\IterationStatements\obj\Debug\net7.0\ref\IterationStatements.dll

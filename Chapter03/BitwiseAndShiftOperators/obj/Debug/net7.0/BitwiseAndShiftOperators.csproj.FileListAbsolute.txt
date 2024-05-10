@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.exe
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.deps.json
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.dll
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.pdb
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.dll
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\refint\BitwiseAndShiftOperators.dll
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.pdb
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\ref\BitwiseAndShiftOperators.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBK2RzM4P2ehFJ2odw+uT7ws4IHjXEgi/AvOlpY8zUwTOF4Na9qqkI9ZrgFPj7NlmTaUrM6+yF8cJGQhPV1Sng==",
+  "success": true,
+  "projectFilePath": "E:\\dotNet7Visutal Stdio\\Chapter03\\SelectionStatements\\SelectionStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
