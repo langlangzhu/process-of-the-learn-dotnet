@@ -1,0 +1,3 @@
+[submodule "mix.core"]
+	path = mix.core
+	url = git@github.com:langlangzhu/mix.core.git
