@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6G1MXnvWZ0bA8H81masbIHJUBNWVBl/vadAaKqJrqqKKeC5sLaBZSYM82xa8gSfy7onh4p7R+JzK0l1k/JxHcA==",
+  "success": true,
+  "projectFilePath": "E:\\dotNet7Visutal Stdio\\Chapter03\\CastingConverting\\CastingConverting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\LangLang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

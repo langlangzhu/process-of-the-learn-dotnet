@@ -46,7 +46,6 @@ string[][] grid1 = new[]
     new[] {"Anne","Ben","Charlie","Doug"},
     new[] {"Aardvark","Bear","Cat","Dog"},    
     new[] {"Aardvark","Bear","Cat","Dog"}
-
 };   
 /*对于交错数组来说实际上它就是个一维套一个一维数组，所以GetLowerBound是按照一维数组的规则来的*/
 WriteLine($"Lower bound of the first dimension is: {grid1.GetLowerBound(0)}"); 
@@ -79,10 +78,29 @@ grid3[2,3]="Dog";
 
 //------------------------------------------------------------------------
 //---交错(锯齿)数组样例
-
+//-------------------------------------------------------------------------2024/5/10日
 string[][] jagged = new[]
 {
     new[]{"Alpha","Beta","Gamma"},
     new[]{"Anne","Ben","Charlie","Doug"},
-    new[]{"Aar"}
+    new[]{"Aardvark","Bear"}
+};
+
+WriteLine("Upper bound of array of arrays is：{0}",
+        jagged.GetUpperBound(0));
+
+for(int array=0;array<=jagged.GetUpperBound(0);array++)
+{
+    WriteLine("Upper bound of array {0} is：{1}",
+        arg0:array,
+        arg1:jagged[array].GetUpperBound(0));
 }
+
+for(int row=0;row<=jagged.GetUpperBound(0);row++)
+{
+    for(int col=0; col<=jagged[row].GetUpperBound(0);col++)
+    {
+        WriteLine($"Row {row}, Colum {col}: {jagged[row][col]}");
+    }
+} //利用getUpperBound获取数组上限，以此来进行行列遍历
+

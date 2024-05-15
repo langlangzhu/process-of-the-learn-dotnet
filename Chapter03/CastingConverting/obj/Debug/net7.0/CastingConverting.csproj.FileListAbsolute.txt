@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\bin\Debug\net7.0\CastingConverting.exe
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\bin\Debug\net7.0\CastingConverting.deps.json
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\bin\Debug\net7.0\CastingConverting.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\bin\Debug\net7.0\CastingConverting.dll
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\bin\Debug\net7.0\CastingConverting.pdb
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.dll
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\refint\CastingConverting.dll
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.pdb
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chapter03\CastingConverting\obj\Debug\net7.0\ref\CastingConverting.dll

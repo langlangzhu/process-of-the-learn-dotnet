@@ -1,0 +1,14 @@
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\bin\Debug\net7.0\HandingExceptions.exe
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\bin\Debug\net7.0\HandingExceptions.deps.json
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\bin\Debug\net7.0\HandingExceptions.runtimeconfig.json
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\bin\Debug\net7.0\HandingExceptions.dll
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\bin\Debug\net7.0\HandingExceptions.pdb
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.csproj.CoreCompileInputs.cache
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.dll
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\refint\HandingExceptions.dll
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.pdb
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\HandingExceptions.genruntimeconfig.cache
+E:\dotNet7Visutal Stdio\Chapter03\HandingExceptions\obj\Debug\net7.0\ref\HandingExceptions.dll

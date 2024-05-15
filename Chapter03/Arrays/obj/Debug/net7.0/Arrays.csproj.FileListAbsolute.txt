@@ -12,3 +12,4 @@ E:\dotNet7Visutal Stdio\Chapter03\Arrays\obj\Debug\net7.0\refint\Arrays.dll
 E:\dotNet7Visutal Stdio\Chapter03\Arrays\obj\Debug\net7.0\Arrays.pdb
 E:\dotNet7Visutal Stdio\Chapter03\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
 E:\dotNet7Visutal Stdio\Chapter03\Arrays\obj\Debug\net7.0\ref\Arrays.dll
+E:\dotNet7Visutal Stdio\Chapter03\Arrays\obj\Debug\net7.0\Arrays.sourcelink.json
