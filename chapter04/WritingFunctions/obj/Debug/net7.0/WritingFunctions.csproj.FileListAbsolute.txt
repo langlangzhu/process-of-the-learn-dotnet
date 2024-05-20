@@ -1,0 +1,4 @@
+E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfoInputs.cache
+E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfo.cs
+E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.CoreCompileInputs.cache
