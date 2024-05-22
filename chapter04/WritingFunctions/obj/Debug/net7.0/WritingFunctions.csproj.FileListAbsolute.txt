@@ -2,3 +2,17 @@ E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunct
 E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfoInputs.cache
 E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfo.cs
 E:\dotNet7Visutal Stdio\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.exe
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.deps.json
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.runtimeconfig.json
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.pdb
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfoInputs.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfo.cs
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\refint\WritingFunctions.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.pdb
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.genruntimeconfig.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\WritingFunctions\obj\Debug\net7.0\ref\WritingFunctions.dll

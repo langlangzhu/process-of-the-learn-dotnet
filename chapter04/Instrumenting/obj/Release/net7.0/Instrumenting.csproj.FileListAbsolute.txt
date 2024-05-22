@@ -1,0 +1,14 @@
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.exe
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.deps.json
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.runtimeconfig.json
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\bin\Release\net7.0\Instrumenting.pdb
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfoInputs.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfo.cs
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.csproj.CoreCompileInputs.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\refint\Instrumenting.dll
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.pdb
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\Instrumenting.genruntimeconfig.cache
+D:\dotNet7Learn\process-of-the-learn-dotnet\chapter04\Instrumenting\obj\Release\net7.0\ref\Instrumenting.dll
